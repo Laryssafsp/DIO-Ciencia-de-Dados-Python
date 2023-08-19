@@ -1,7 +1,7 @@
 <h1>
     <a href="https://www.dio.me/">
      <img align="center" width="40px" src="https://hermes.digitalinnovation.one/assets/diome/logo-minimized.png"></a>
-    <span>  Ciêcia de Dados - Santander | Bootcamp 2023 - Ciência de Dados com Python</span>
+    <span> DIO - Santander | Bootcamp 2023 - Ciência de Dados com Python</span>
 </h1>
 
 ## 
